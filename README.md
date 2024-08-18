@@ -1,0 +1,2 @@
+# select_topics_of_numerical_analysis
+Projects and Assignments of select_topics_of_numerical_analysis
